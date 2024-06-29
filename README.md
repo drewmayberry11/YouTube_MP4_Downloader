@@ -28,7 +28,7 @@ The script requires the following dependencies:
 ## Installation
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/drewmayberry11/YouTube_to_MP4_Downloader.git
+   git clone https://github.com/drewmayberry11/YouTube_MP4_Downloader.git
    cd YouTube_to_MP4_Downloader
    ```
 
