@@ -16,11 +16,6 @@ It works with alot of other social media platforms like X and Instagram, but has
 - [Usage](#usage)
 - [License](#license)
 
-## Description
-This Python script allows users to download YouTube videos as MP4 files. It lists available video streams and lets the user choose which stream to download.
-
-It works with alot of other social media platforms like X and Instagram, but has some issues sometimes with other websites outside of YouTube.
-
 ## Features
 - Download YouTube videos in MP4 format
 - Lists available video streams with resolution and MIME type
