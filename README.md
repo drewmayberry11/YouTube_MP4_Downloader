@@ -1,7 +1,12 @@
 
 # YouTube MP4 Converter
 
-This script uses `pytube` to download YouTube video links in MP4 file format.
+## Downlaod videos from youtube for free in MP4 format. 
+
+## Description
+This Python script allows users to download YouTube videos as MP4 files. It lists available video streams and lets the user choose which stream to download.
+
+It works with alot of other social media platforms like X and Instagram, but has some issues sometimes with other websites outside of YouTube.
 
 ## Table of Contents
 - [Description](#description)
